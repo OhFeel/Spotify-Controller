@@ -20,14 +20,14 @@ A custom macropad for Spotify control, built with a Seeed XIAO (RP2040), rotary 
 
 ## BOM (Bill of Materials)
 
-|  Id | Designator                                                       | Footprint                                      | Quantity | Designation           |
-| --: | ---------------------------------------------------------------- | ---------------------------------------------- | -------: | --------------------- |
-|   1 | D18, D16, D17, D22, D19, D20, D21                                | D_DO-35_SOD27_P7.62mm_Horizontal               |        7 | 1N4148                |
-|   2 | D1, D7, D2, D8, D3, D9, D4, D10, D6, D5, D12, D11, D15, D14, D13 | SK6812MINI-E_fixed                             |       15 | SK6812MINI-E          |
-|   3 | U1                                                               | XIAO-Generic-Hybrid-14P-2.54-21X17.8MM         |        1 | MOUDLE-SEEEDUINO-XIAO |
-|   4 | SW1                                                              | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm |        1 | RotaryEncoder_Switch  |
-|   5 | SW3, SW5, SW7, SW4, SW6, SW2                                     | SW_Cherry_MX_1.00u_Plate                       |        6 | SW_Push               |
-|   6 | J1                                                               | SSD1306-0.91-OLED-4pin-128x32                  |        1 | Conn_01x04_Pin        |
+|  Id | Designator                                                       | Footprint                                      | Quantity | Designation           | Supplier Link                                                                                                   |
+| --: | ---------------------------------------------------------------- | ---------------------------------------------- | -------: | --------------------- | --------------------------------------------------------------------------------------------------------------- |
+|   1 | D18, D16, D17, D22, D19, D20, D21                                | D_DO-35_SOD27_P7.62mm_Horizontal               |        7 | 1N4148                | [LCSC - 1N4148](https://www.lcsc.com/search?q=1N4148)                                                           |
+|   2 | D1, D7, D2, D8, D3, D9, D4, D10, D6, D5, D12, D11, D15, D14, D13 | SK6812MINI-E_fixed                             |       15 | SK6812MINI-E          | [LCSC - SK6812MINI-E](https://www.lcsc.com/search?q=SK6812MINI-E)                                               |
+|   3 | U1                                                               | XIAO-Generic-Hybrid-14P-2.54-21X17.8MM         |        1 | MOUDLE-SEEEDUINO-XIAO | [Seeed Studio - XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)                          |
+|   4 | SW1                                                              | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm |        1 | RotaryEncoder_Switch  | [Mouser - EC11 encoders](https://www.mouser.com/c/electromechanical/encoders/?q=EC11)                           |
+|   5 | SW3, SW5, SW7, SW4, SW6, SW2                                     | SW_Cherry_MX_1.00u_Plate                       |        6 | SW_Push               | [AliExpress - Cherry MX switches](https://www.aliexpress.com/wholesale?SearchText=cherry+mx+switch)             |
+|   6 | J1                                                               | SSD1306-0.91-OLED-4pin-128x32                  |        1 | Conn_01x04_Pin        | [AliExpress - 0.91" SSD1306 OLED](https://www.aliexpress.com/wholesale?SearchText=0.91+inch+ssd1306+oled+4+pin) |
 
 ## Firmware Notes
 
