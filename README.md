@@ -28,6 +28,8 @@ A custom macropad for Spotify control, built with a Seeed XIAO (RP2040), rotary 
 |   4 | SW1                                                              | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm |        1 | RotaryEncoder_Switch  | [Mouser - EC11 encoders](https://www.mouser.com/c/electromechanical/encoders/?q=EC11)                           |
 |   5 | SW3, SW5, SW7, SW4, SW6, SW2                                     | SW_Cherry_MX_1.00u_Plate                       |        6 | SW_Push               | [AliExpress - Cherry MX switches](https://www.aliexpress.com/wholesale?SearchText=cherry+mx+switch)             |
 |   6 | J1                                                               | SSD1306-0.91-OLED-4pin-128x32                  |        1 | Conn_01x04_Pin        | [AliExpress - 0.91" SSD1306 OLED](https://www.aliexpress.com/wholesale?SearchText=0.91+inch+ssd1306+oled+4+pin) |
+|   7 | N/A                                                              | N/A                                            |        6 | DSA Keycap            | [AliExpress - DSA keycaps](https://www.aliexpress.com/wholesale?SearchText=DSA+keycap)                          |
+|   8 | N/A                                                              | N/A                                            |        6 | M3 Screw              | [AliExpress - M3 screws](https://www.aliexpress.com/wholesale?SearchText=M3+screw)                              |
 
 ## Firmware Notes
 
